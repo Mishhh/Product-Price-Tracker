@@ -1,9 +1,9 @@
 # 🧺 Product Price Tracker
 
 Track and visualize price changes of any product from an e-commerce website.  
-💡 Stay informed and make smarter buying decisions using real-time and historical price data.
+This tool is especially useful for monitoring price fluctuations and buying at the best time.
 
-> **Example:** This implementation monitors the price of **Fresho Banana Robusta (500g)** from **BigBasket India**.
+> In this example, we’re tracking the price of **Fresho Banana Robusta (500g)** from ** BigBasket**.
 
 ---
 
