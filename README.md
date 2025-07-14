@@ -20,8 +20,8 @@ Track and visualize price changes of any product from an e-commerce website.
 ## 🧰 Technologies Used
 
 | Tool/Library       | Purpose                                 |
-|--------------------|------------------------------------------|
-| `Python 3.10+`      | Core language                           |
+|--------------------|-----------------------------------------|
+| `Python 3.10+`      | Core language                          |
 | `Selenium`          | To scrape JavaScript-rendered content  |
 | `BeautifulSoup`     | Parse and extract HTML content         |
 | `Pandas`            | Store and manage price data            |
@@ -46,7 +46,6 @@ To schedule daily execution:
 
 ## 📉 Sample Visualization
 
-> ![Price Trend](<img width="1218" height="713" alt="image" src="https://github.com/user-attachments/assets/d3b988b8-a84f-49d7-aabb-77583e77199f" />
-)
+> ![Price Trend](images/price_trend.png)
 
 ---
