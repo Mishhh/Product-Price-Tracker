@@ -46,6 +46,6 @@ To schedule daily execution:
 
 ## 📉 Sample Visualization
 
-> ![Price Trend](/price_trend.png)
+> ![Price Trend](/)
 
 ---
